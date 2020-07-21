@@ -96,6 +96,7 @@ environment:
     vnstat
     watchtower
     wallabag
+    wikijs
     wordpress
     xteve
     znc

@@ -98,6 +98,7 @@
     - { role: vnstat, tags: ['vnstat'] }
     - { role: watchtower, tags: ['watchtower'] }
     - { role: wallabag, tags: ['wallabag'] }
+    - { role: wikijs, tags: ['wikijs'] }
     - { role: wordpress, tags: ['wordpress'] }
     - { role: xteve, tags: ['xteve'] }
     - { role: znc, tags: ['znc'] }
